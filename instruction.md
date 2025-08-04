@@ -30,10 +30,3 @@ MIT License – see [LICENSE](LICENSE) file for details.
 
 ---
 
-## 📸 Circuit Diagram
-
-(Add your circuit image here later, e.g. ![Circuit Diagram](images/circuit.png))
-
----
-
-💡 **Enjoy building your temperature alert system!**
