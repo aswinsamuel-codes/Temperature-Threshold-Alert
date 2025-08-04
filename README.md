@@ -32,6 +32,4 @@ If the temperature exceeds **30°C**, an LED turns ON as a visual warning. Perfe
 
 ---
 
-## 📝 Code
 
-The Arduino sketch is located at:
