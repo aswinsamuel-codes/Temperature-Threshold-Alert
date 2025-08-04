@@ -1,4 +1,4 @@
-# Temperature Threshold Warning System 🔥
+# Temperature Threshold Warning System 
 
 This project uses an **Arduino Uno** and a **DHT11 temperature sensor** to monitor room temperature.  
 If the temperature exceeds **30°C**, an LED turns ON as a visual warning. Perfect for a basic home temperature alert system!
